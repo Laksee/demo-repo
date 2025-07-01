@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "array": "^0.4.3",
+    "expres": "^0.0.5"
+  }
+}
